@@ -1,5 +1,5 @@
 from biocypher import BioCypher
-from tutorial.data_generator import Protein, EntrezProtein
+from data_generator import Protein, EntrezProtein
 
 
 def main():

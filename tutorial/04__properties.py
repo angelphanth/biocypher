@@ -1,5 +1,5 @@
 from biocypher import BioCypher
-from tutorial.data_generator import EntrezProtein, RandomPropertyProtein
+from data_generator import EntrezProtein, RandomPropertyProtein
 
 
 def main():

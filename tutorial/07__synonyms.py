@@ -1,5 +1,5 @@
 from biocypher import BioCypher
-from tutorial.data_generator import (
+from data_generator import (
     Complex,
     EntrezProtein,
     InteractionGenerator,
